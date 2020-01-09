@@ -1,0 +1,14 @@
+{
+    "name": "Test lib",
+    "license": "MIT",
+    "type": "library",
+    "description": "Test lib",
+    "autoload": {
+        "psr-0": {
+            "Guru": ""
+        }
+    },
+    "require": {
+        "symfony/symfony": "~2.8.52"
+    }
+}
