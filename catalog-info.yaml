@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: symfony
+  description: Micro-service that symfony
+  title: Symfony
+  tags:
+    - php
+  links:
+    - url: https://github.com/sangkasi/symfony
+      title: Swagger Documentation for the Service
+      type: Documentation
+spec:
+  type: service
+  lifecycle: production
+  owner: group:team-test
