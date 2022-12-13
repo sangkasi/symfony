@@ -6,7 +6,7 @@ metadata:
   title: Symfony
   annotations:
     datadoghq.com/dashboard-url: https://p.datadoghq.com/sb/3e9dd4376-9727669ad007b20f5e7a5c29c5d77f62
-    jenkins.io/job-full-name: "job/devtools-backend"
+    jenkins.io/job-full-name: "devtools-backend"
   tags:
     - php
   links:
